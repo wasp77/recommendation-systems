@@ -1,6 +1,6 @@
-Reccomendation Tings
+# Recommendation Tings
 
-Just playing arround with some reccommendation stuff
+Just playing around with some recommendation stuff
 
 ## KNN
 
